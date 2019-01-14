@@ -1,1 +1,0 @@
-listName.count() metodunu kullan
