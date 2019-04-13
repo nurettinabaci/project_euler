@@ -1,11 +1,7 @@
 #include "pch.h"
-#include <fstream>
 #include <string>
 #include <vector>
 #include <iostream>
-#include <algorithm>
-#include <string>
-#include <bitset>
 #include <cmath>
 using namespace std;
 //std::next_permutation denenebilir
